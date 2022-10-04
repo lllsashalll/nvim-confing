@@ -18,7 +18,7 @@ set tabstop=2
 set expandtab
 set shiftwidth=2
 
-inoremap jk <esc>
+" inoremap jk <esc>
 
 call plug#begin('~/.vim/plugged')
 
